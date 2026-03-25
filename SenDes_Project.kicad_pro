@@ -412,6 +412,18 @@
     [
       "219e0100-6021-4ea6-8b90-c6661724a688",
       "Root"
+    ],
+    [
+      "eb6e11c7-bdf9-41c1-bcea-017e121cdd08",
+      "MCU"
+    ],
+    [
+      "c5ad07c5-09be-4f15-9b17-a336f44777e7",
+      "Power Distribution"
+    ],
+    [
+      "93bbd835-d6de-4912-8bb7-755a13d0a453",
+      "CAN"
     ]
   ],
   "text_variables": {}
